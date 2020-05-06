@@ -1,0 +1,23 @@
+
+h1{
+	font-style: oblique;
+	font-family: Times;
+}
+header{
+	text-align: center;
+	background: #FCE7F0;
+	color: #980E46;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+p{
+	font-style: italic; 
+	font-size: 150%;
+	background: #F7B0CC;
+}
